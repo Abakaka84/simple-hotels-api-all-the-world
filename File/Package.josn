@@ -1,0 +1,12 @@
+{
+  "name": "simple-hotels-api",
+  "version": "1.0.0",
+  "description": "Hotels API for Europe and USA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
